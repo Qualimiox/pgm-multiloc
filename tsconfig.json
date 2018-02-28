@@ -22,7 +22,7 @@
         "typings-custom"
     ],
     "compileOnSave": true,
-    "buildOnSave": false,
+    "buildOnSave": true,
     "atom": {
         "rewriteTsconfig": false
     }
